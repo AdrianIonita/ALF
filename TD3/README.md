@@ -1,8 +1,10 @@
-Limbajul se numeste DaVERE,
-programul face adunare/scadere/inmultire/impartire ,dar are sintaxa schimbata 
-are constructie de tipul "dangling else"
+@danucosmin
 
-ca input se pot folosi urmatoarele sintaxe:
+Limbajul se numeste DaVERE,
+-programul face adunare/scadere/inmultire/impartire ,dar are sintaxa schimbata 
+-are constructie de tipul "dangling else"
+-textul din DaVERE.txt e pune pe http://pegjs.org/online 
+-ca input se pot folosi urmatoarele sintaxe:
 
 #####pt adunare:
 
