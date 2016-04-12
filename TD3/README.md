@@ -15,7 +15,7 @@ si,vere... b == 9 ,gata vere
 #####pt.scadere:
 
 Scadere,vere:<br />
-Deci vere... a == <br />
+Deci vere... a ==3 <br />
 si,vere... b == 2 ,gata vere
 
 #####pt.inmultire:
