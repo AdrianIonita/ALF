@@ -8,24 +8,24 @@ Limbajul se numeste DaVERE,
 
 #####pt adunare:
 
-Adunare,vere:/n
-Deci vere... a == 2/n
+Adunare,vere:<br />
+Deci vere... a == 2<br />
 si,vere... b == 9 ,gata vere
 
 #####pt.scadere:
 
-Scadere,vere:/n
-Deci vere... a == 1/n
+Scadere,vere:<br />
+Deci vere... a == <br />
 si,vere... b == 2 ,gata vere
 
 #####pt.inmultire:
 
-Inmultire,vere:/n
-Deci vere... a == 2/n
+Inmultire,vere:<br />
+Deci vere... a == 2<br />
 si,vere... b == 9 ,gata vere
 
 #####pt.impartire:
 
-Impartire,vere:/n
-Deci vere... a == 2/n
+Impartire,vere:<br />
+Deci vere... a == 2<br />
 si,vere... b == 9 ,gata vere
