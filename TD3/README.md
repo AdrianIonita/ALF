@@ -1,4 +1,4 @@
-@danucosmin
+  @danucosmin
 
 Limbajul se numeste DaVERE,
 -programul face adunare/scadere/inmultire/impartire ,dar are sintaxa schimbata 
