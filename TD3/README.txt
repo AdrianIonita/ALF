@@ -1,28 +1,28 @@
 Limbajul se numeste DaVERE,
 programul face adunare/scadere/inmultire/impartire ,dar are sintaxa schimbata 
-are constructie de tipul dangling else
+are constructie de tipul "dangling else"
 
-ca inputse pot folosi urmatoarele sintaxe:
+ca input se pot folosi urmatoarele sintaxe:
 
-pt adunare:
+#####pt adunare:
 
 Adunare,vere:
 Deci vere... a == 2
 si,vere... b == 9 ,gata vere
 
-**pt.scadere:**
+#####pt.scadere:
 
 Scadere,vere:
 Deci vere... a == 1
 si,vere... b == 2 ,gata vere
 
-**pt.inmultire:**
+#####pt.inmultire:
 
 Inmultire,vere:
 Deci vere... a == 2
 si,vere... b == 9 ,gata vere
 
-**pt.impartire:**
+#####pt.impartire:
 
 Impartire,vere:
 Deci vere... a == 2
