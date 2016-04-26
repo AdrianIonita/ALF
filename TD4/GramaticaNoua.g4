@@ -1,5 +1,6 @@
 grammar GramaticaNoua;
 
+
 start: 
 	(declgen) (propozitieifgen) ? sfarsit	;
 	
