@@ -22,3 +22,4 @@ Exemplu de input:
   dacanu a=2;
   ifendl
   sfarsit
+  
