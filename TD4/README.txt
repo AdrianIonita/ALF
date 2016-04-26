@@ -1,3 +1,8 @@
+CONTRIBUTORI:
+Duta Crina
+Brezoaie Robert CARE AU DAT FORK,daca se poate de data asta sa va uitati
+
+
 Gramatica noua scrisa cu antlr in java.
 -declarare variabile;
 -if-else.
